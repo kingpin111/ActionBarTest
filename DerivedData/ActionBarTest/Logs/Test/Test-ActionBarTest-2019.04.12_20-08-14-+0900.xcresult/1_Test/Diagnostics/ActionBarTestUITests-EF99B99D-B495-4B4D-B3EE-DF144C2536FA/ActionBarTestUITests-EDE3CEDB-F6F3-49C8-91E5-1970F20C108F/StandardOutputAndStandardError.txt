@@ -1,0 +1,88 @@
+2019-04-12 20:08:18.998078+0900 ActionBarTestUITests-Runner[46227:356765] [AXMediaCommon] Unable to look up screen scale
+2019-04-12 20:08:18.998250+0900 ActionBarTestUITests-Runner[46227:356765] [AXMediaCommon] Unexpected physical screen orientation
+2019-04-12 20:08:19.050920+0900 ActionBarTestUITests-Runner[46227:356765] [AXMediaCommon] Unable to look up screen scale
+2019-04-12 20:08:19.054118+0900 ActionBarTestUITests-Runner[46227:356765] [AXMediaCommon] Unable to look up screen scale
+2019-04-12 20:08:19.054199+0900 ActionBarTestUITests-Runner[46227:356765] [AXMediaCommon] Unexpected physical screen orientation
+2019-04-12 20:08:19.088867+0900 ActionBarTestUITests-Runner[46227:356765] Running tests...
+Test Suite 'Selected tests' started at 2019-04-12 20:08:19.194
+Test Suite 'ActionBarTestUITests.xctest' started at 2019-04-12 20:08:19.195
+Test Suite 'ActionBarTestUITests' started at 2019-04-12 20:08:19.196
+Test Case '-[ActionBarTestUITests.ActionBarTestUITests testExample]' started.
+    t =     0.00s Start Test at 2019-04-12 20:08:19.197
+    t =     0.06s Set Up
+    t =     0.06s     Open kr.co.lkd.ActionBarTest
+    t =     0.11s         Launch kr.co.lkd.ActionBarTest
+    t =     3.76s             Wait for kr.co.lkd.ActionBarTest to idle
+    t =     5.16s Tap "Word" Button
+    t =     5.16s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     5.20s     Find the "Word" Button
+    t =     5.24s         Check for interrupting elements affecting "Word" Button
+    t =     5.24s     Synthesize event
+    t =     5.34s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     5.82s Tap "Sheet" Button
+    t =     5.82s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     5.86s     Find the "Sheet" Button
+    t =     5.88s         Check for interrupting elements affecting "Sheet" Button
+    t =     5.88s     Synthesize event
+    t =     5.97s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     6.45s Tap "Slide" Button
+    t =     6.45s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     6.49s     Find the "Slide" Button
+    t =     6.51s         Check for interrupting elements affecting "Slide" Button
+    t =     6.51s     Synthesize event
+    t =     6.60s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     7.07s Tap "PDF" Button
+    t =     7.08s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     7.12s     Find the "PDF" Button
+    t =     7.14s         Check for interrupting elements affecting "PDF" Button
+    t =     7.14s     Synthesize event
+    t =     7.23s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     7.71s Tap "Editor" Button
+    t =     7.71s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     7.75s     Find the "Editor" Button
+    t =     7.77s         Check for interrupting elements affecting "Editor" Button
+    t =     7.77s     Synthesize event
+    t =     7.86s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     8.34s Tap "menu" Button
+    t =     8.34s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     8.38s     Find the "menu" Button
+    t =     8.40s         Check for interrupting elements affecting "menu" Button
+    t =     8.40s     Synthesize event
+    t =     8.50s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     8.75s Tap "play" Button
+    t =     8.75s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     8.79s     Find the "play" Button
+    t =     8.81s         Check for interrupting elements affecting "play" Button
+    t =     8.81s     Synthesize event
+    t =     8.90s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     9.15s Tap "search" Button
+    t =     9.15s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     9.20s     Find the "search" Button
+    t =     9.22s         Check for interrupting elements affecting "search" Button
+    t =     9.22s     Synthesize event
+    t =     9.31s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     9.56s Tap "icon" Button
+    t =     9.57s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     9.61s     Find the "icon" Button
+    t =     9.63s         Check for interrupting elements affecting "icon" Button
+    t =     9.63s     Synthesize event
+    t =     9.72s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =     9.97s Tap "more" Button
+    t =     9.97s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =    10.02s     Find the "more" Button
+    t =    10.04s         Check for interrupting elements affecting "more" Button
+    t =    10.04s     Synthesize event
+    t =    10.13s     Wait for kr.co.lkd.ActionBarTest to idle
+    t =    10.38s Tear Down
+Test Case '-[ActionBarTestUITests.ActionBarTestUITests testExample]' passed (10.593 seconds).
+Test Suite 'ActionBarTestUITests' passed at 2019-04-12 20:08:29.790.
+	 Executed 1 test, with 0 failures (0 unexpected) in 10.593 (10.594) seconds
+Test Suite 'ActionBarTestUITests.xctest' passed at 2019-04-12 20:08:29.791.
+	 Executed 1 test, with 0 failures (0 unexpected) in 10.593 (10.596) seconds
+Test Suite 'Selected tests' passed at 2019-04-12 20:08:29.792.
+	 Executed 1 test, with 0 failures (0 unexpected) in 10.593 (10.598) seconds
+
+
+Test session results and logs:
+	/Users/victor/Documents/ActionBarTest/DerivedData/ActionBarTest/Logs/Test/Test-ActionBarTest-2019.04.12_20-08-14-+0900.xcresult
+

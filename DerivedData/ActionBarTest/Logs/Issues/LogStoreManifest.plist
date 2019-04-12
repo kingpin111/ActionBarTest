@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>4FE1377C-0CD2-41C0-BDB0-36531E9E7165</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>4FE1377C-0CD2-41C0-BDB0-36531E9E7165.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>signature</key>
+			<string>ActionBarTestUITests-bodfllrvivrottfjvveitlzbfnyo</string>
+			<key>timeStartedRecording</key>
+			<real>576760026.42063105</real>
+			<key>timeStoppedRecording</key>
+			<real>576760028.16717899</real>
+			<key>title</key>
+			<string>Build target ActionBarTestUITests</string>
+			<key>uniqueIdentifier</key>
+			<string>4FE1377C-0CD2-41C0-BDB0-36531E9E7165</string>
+		</dict>
+		<key>D2709A37-EA77-444D-8D7D-109563B3046A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>D2709A37-EA77-444D-8D7D-109563B3046A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>ActionBarTest-bodfllrvivrottfjvveitlzbfnyo</string>
+			<key>timeStartedRecording</key>
+			<real>576762183.15542305</real>
+			<key>timeStoppedRecording</key>
+			<real>576762184.41632795</real>
+			<key>title</key>
+			<string>Build target ActionBarTest</string>
+			<key>uniqueIdentifier</key>
+			<string>D2709A37-EA77-444D-8D7D-109563B3046A</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

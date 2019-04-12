@@ -1,0 +1,24 @@
+20:08:14.995 Xcode[34087:356092] Sim iPhone X: Unregistering for sim device notification with token 62
+
+20:08:14.995 Xcode[34087:356092] Calling -[SimDevice getenv:error:] for TESTMANAGERD_SIM_SOCK
+
+20:08:14.995 Xcode[34087:356092] Sim iPhone X has testmanagerd socket at /private/tmp/com.apple.launchd.yzNvNVARdI/com.apple.testmanagerd.unix-domain.socket
+
+20:08:14.995 Xcode[34087:356092] Validating test connection socket path (/private/tmp/com.apple.launchd.yzNvNVARdI/com.apple.testmanagerd.unix-domain.socket)
+
+20:08:14.995 Xcode[34087:356092] Constructing transport for test connection socket
+
+20:08:14.996 Xcode[34087:356092] Connected socket 114 to testmanagerd for Sim iPhone X
+
+20:08:14.996 Xcode[34087:356098] Initiating control session with controller protocol version 29
+
+20:08:15.025 Xcode[34087:356604] Got reply to control session initiation request (result:error): 29: (null)
+
+20:08:15.025 Xcode[34087:356604] Completed protocol exchange, test daemon is running v29.
+
+20:08:19.152 Xcode[34087:356604] Got authorization request for pid 46227
+
+20:08:19.152 Xcode[34087:356628] Requesting authorization for pid 46227
+
+20:08:19.174 Xcode[34087:356628] Got reply to authorization request for pid 46227 (result:error): 1: (null)
+

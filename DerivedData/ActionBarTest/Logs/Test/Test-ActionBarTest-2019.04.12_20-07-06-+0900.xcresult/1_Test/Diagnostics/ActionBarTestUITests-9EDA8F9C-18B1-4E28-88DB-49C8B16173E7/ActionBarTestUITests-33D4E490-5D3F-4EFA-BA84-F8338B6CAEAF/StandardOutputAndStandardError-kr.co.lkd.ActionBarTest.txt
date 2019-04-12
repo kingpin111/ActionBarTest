@@ -1,0 +1,2 @@
+Standard output and standard error from kr.co.lkd.ActionBarTest with process ID 46208 beginning at 20:07:15.458
+

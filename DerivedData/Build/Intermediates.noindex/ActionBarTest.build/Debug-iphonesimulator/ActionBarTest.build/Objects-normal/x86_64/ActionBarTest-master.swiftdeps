@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "241efa1532f4e70a30f69a695ff0a324"
+build_time: [1555069383, 167308000]
+inputs:
+  "/Users/victor/Documents/ActionBarTest/ActionBarTest/ViewController.swift": [1555069383, 0]
+  "/Users/victor/Documents/ActionBarTest/ActionBarTest/AppDelegate.swift": [1555057587, 0]
+  "/Users/victor/Documents/ActionBarTest/ActionBarTest/ActionIcon.swift": [1555066648, 0]
+  "/Users/victor/Documents/ActionBarTest/ActionBarTest/Utils.swift": [1555060927, 0]

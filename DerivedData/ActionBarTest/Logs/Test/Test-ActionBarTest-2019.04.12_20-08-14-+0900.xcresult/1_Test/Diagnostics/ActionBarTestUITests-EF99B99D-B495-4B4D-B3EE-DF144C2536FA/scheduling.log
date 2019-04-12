@@ -1,0 +1,5 @@
+2019-04-12 11:08:14 +0000: Received worker from worker provider: 0x7fa04ff15360 [0: iPhone X (E060F1CB-968B-408E-96BB-81FE515188F8)]
+2019-04-12 11:08:19 +0000: Worker 0x7fa04ff15360 [46227: iPhone X (E060F1CB-968B-408E-96BB-81FE515188F8)] finished bootstrapping
+2019-04-12 11:08:19 +0000: Parallelization disabled; test execution driven by the test process
+2019-04-12 11:08:30 +0000: Worker 0x7fa04ff15360 [46227: iPhone X (E060F1CB-968B-408E-96BB-81FE515188F8)] finished successfully
+2019-04-12 11:08:30 +0000: Finished executing tests (cancelled: No)
